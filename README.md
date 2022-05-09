@@ -1,34 +1,36 @@
 # Hi there 👋
 
-![Bali background](https://media-exp1.licdn.com/dms/image/C5622AQGkmiCh-NoCAQ/feedshare-shrink_2048_1536/0/1644996424029?e=1650499200&v=beta&t=hlO4irbBYNrlGoh9iCrIfxRIUFYkGtk9Ot_1mkuPEtM)
-
-
 # About me
 
-► Engineer and Computer Science PhD Student with 25+ years of experience in Open Source and
-GNU/Linux systems.
+► Senior Computer Engineer with an extensive professional experience focused around Open Source
+projects and GNU/Linux systems.
 
-► I would describe myself as a highly skilled computer enthusiast, very focused on highend
-computing technology. This is why, since a very young age, I have challenged
-myself to learn and collaborate with several Open Source projects and communities.
+► I would describe myself as a highly skilled computer enthusiast, very focused on high-end
+computing technology. This is why, since a very young age, I have challenged myself to learn and
+collaborate with several Open Source projects and communities.
 
-► After several years working for big international corporations, followed by some
-others as a freelance, both from Spain and traveling, my family and I have decided to
-settle in Indonesia.
+► My professional beginnings in multinational companies evolved from purely technical topics such
+as SysOps, Cybersecurity and Embedded Systems to Project Management and Team Leadership. This
+allowed me to assume leading responsibilities in terms of team and decision making as well as being
+able to help in the personal and professional growth of my teams and collaborators.
 
-► Alongside several heterogeneous technical fields going from CyberSecurity to Artificial
-Intelligence through Embedded Systems, right now my professional career has
-evolved into high-tech StartUp regular collaborations all over the globe.
+► As an entrepreneur, in 2015 I founded the Cybersecurity and AI focused Startup, EthelHub,
+applying my previous experience in product development while learning about technologies such as
+Cloud, DevOps and Artificial Intelligence on one hand and, on the other about Customer Research,
+Marketing, Pilot Projects and Fundraising.
 
-► I am a very focused, organized, solution-oriented multidisciplinary professional. I
-enjoy working with innovative technology groups, and this is why I would like to find
-commited and technologically challenging projects to get involved with.
+► While the project was underway, I was also collaborating with other high-tech StartUps as a
+Freelancer Consultant, which eventually opened the door for a new AI robotics StartUp project,
+Crystal Robotics, and finally to create my company Xift, to continue learning, working and traveling
+with my family all over the world until we finally decided to settle in Indonesia.
+
+► I am a very focused, organized, solution-oriented multidisciplinary professional. I enjoy working
+with innovative technology groups, and therefore I would like to find committed and technologically
+challenging projects to get involved with.
 
 # Expertise
 
 GNU/Linux | Artificial Intelligence | Cybersecurity | Embedded Systems | Project Management | DevOps | MLOps | Edge AI | Machine Learning | Pentesting | Ethical Hacking | SCRUM | PMP.
-
-
 
 # GitHub Repositories
 
