@@ -1,71 +1,82 @@
-# Hi there 👋
+# Hi 👋 I'm Carlos Crisóstomo
 
-# About me
+## Fractional CIO · Cloud & Security Architect · Applied AI Infrastructure  
+Founder & Principal Consultant at **xift.ai**
 
-► Senior Computer Engineer with an extensive professional experience focused around Open Source
-projects and GNU/Linux systems.
+I help **leadership teams** design, scale and secure production-grade platforms, with a strong focus on **cloud security architecture, DevSecOps operating models and applied AI systems** (LLMs, RAGs, agents, edge & local-first AI).
 
-► I would describe myself as a highly skilled computer enthusiast, very focused on high-end
-computing technology. This is why, since a very young age, I have challenged myself to learn and
-collaborate with several Open Source projects and communities.
+My background spans **20+ years** across embedded systems, Linux, cybersecurity, cloud infrastructure and AI, working both hands-on and at executive level in **regulated, high-risk and fast-growing environments**.
 
-► My professional beginnings in multinational companies evolved from purely technical topics such
-as SysOps, Cybersecurity and Embedded Systems to Project Management and Team Leadership. This
-allowed me to assume leading responsibilities in terms of team and decision making as well as being
-able to help in the personal and professional growth of my teams and collaborators.
+---
 
-► As an entrepreneur, in 2015 I founded the Cybersecurity and AI focused Startup, EthelHub,
-applying my previous experience in product development while learning about technologies such as
-Cloud, DevOps and Artificial Intelligence on one hand and, on the other about Customer Research,
-Marketing, Pilot Projects and Fundraising.
+## What I do
 
-► While the project was underway, I was also collaborating with other high-tech StartUps as a
-Freelancer Consultant, which eventually opened the door for a new AI robotics StartUp project,
-Crystal Robotics, and finally to create my company Xift, to continue learning, working and traveling
-with my family all over the world until we finally decided to settle in Indonesia.
+- **Fractional CIO / Technical Leadership**  
+  Bridging business, risk and technology. Turning fragmented systems into coherent, auditable platforms.
 
-► I am a very focused, organized, solution-oriented multidisciplinary professional. I enjoy working
-with innovative technology groups, and therefore I would like to find committed and technologically
-challenging projects to get involved with.
+- **Cloud & Infrastructure Architecture**  
+  Secure-by-design architectures across AWS, GCP, on-prem and hybrid environments.
 
-# Expertise
+- **AI Security & Governance**  
+  AI risk management, secure MLOps, LLM infrastructure, model governance and compliance (EU AI Act, NIST AI RMF, ISO/IEC 42001).
 
-GNU/Linux | Artificial Intelligence | Cybersecurity | Embedded Systems | Project Management | DevOps | MLOps | Edge AI | Machine Learning | Pentesting | Ethical Hacking | SCRUM | PMP.
+- **DevSecOps & Platform Engineering**  
+  Automation, reliability, security controls and operational maturity at scale.
 
-# GitHub Repositories
+- **Applied & Local-First AI Infrastructure**  
+  Designing and running LLMs, RAG systems and agents on cloud, edge and sovereign environments.
 
+---
 
-- [@xiftai](https://github.com/xiftai) - Artificial Intelligence / Machine Learning / Deep Learning
-- [@EthelHub](https://github.com/EthelHub) - Reversing, Pentesting and General Hacking (_Old archived repos from EthelHub_) 
-- [@Kr0n0-Linux](https://github.com/Kr0n0-Linux) - Embedded and non-embedded GNU/Linux (Kernel, U-Boot and Fileystem)
-- [@Kr0n0-Android](https://github.com/Kr0n0-Android) - Embedded Android (Kernel, U-Boot, ROM images and porting)
-- [@Kr0n0-Blockchain](https://github.com/Kr0n0-Blockchain) - Blockchain development (CORDA, Ethereum, Smart Contracts and Web3)
-- [@Kr0n0-qc](https://github.com/kr0n0-qc) - Quantum Computing and Quantum Machine Learning (Quiskit, IBM Q, Cirq and TQF)
-- [@Kr0n0-misc](https://github.com/Kr0n0-Misc) - Miscellaneous stuff
+## Areas of expertise
 
+**Cloud Security Architecture · Infrastructure & Platform Architecture · DevSecOps · AI Security & Governance · MLOps · LLM & RAG Systems · Linux · Kubernetes · Edge AI · Embedded Systems**
 
-# Other profiles
+---
 
-- [LinkedIn Profile](https://linkedin.com/in/ccvals/)
-- [PMI Project Management Profile](https://www.projectmanagement.com/profile/ccvals/)
-- [Google Scholar Profile](https://scholar.google.es/citations?user=A6YWZHgAAAAJ&hl=es)
+> **Note:** This GitHub is not a portfolio in the traditional sense, but a technical workspace and R&D lab supporting my consulting and product work.
 
+## GitHub organizations & repositories
 
+This GitHub reflects **R&D, experiments and reference implementations** related to my work:
 
-␛:wq
+- [@xiftai](https://github.com/xiftai)  
+  Applied AI infrastructure, LLMs, RAG systems, agents and platform tooling.
 
+- [@EthelHub](https://github.com/EthelHub)  
+  Cybersecurity, reversing and pentesting (archived early-stage work).
 
-<!--
-**Kr0n0/Kr0n0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [@Kr0n0-Linux](https://github.com/Kr0n0-Linux)  
+  Embedded and general-purpose GNU/Linux (kernel, bootloaders, filesystems).
 
-Here are some ideas to get you started:
+- [@Kr0n0-Android](https://github.com/Kr0n0-Android)  
+  Embedded Android systems and low-level porting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [@Kr0n0-Blockchain](https://github.com/Kr0n0-Blockchain)  
+  Blockchain and distributed systems (Ethereum, smart contracts, early Web3).
+
+- [@Kr0n0-qc](https://github.com/kr0n0-qc)  
+  Quantum computing and quantum machine learning research (Ph.D research).
+
+- [@Kr0n0-Misc](https://github.com/Kr0n0-Misc)  
+  Miscellaneous experiments and prototypes.
+
+---
+
+## Publications & professional profiles
+
+- 🔗 [LinkedIn](https://linkedin.com/in/ccvals/)
+- 📚 [Google Scholar](https://scholar.google.es/citations?user=A6YWZHgAAAAJ&hl=es)
+- 📊 [PMI Project Management Profile](https://www.projectmanagement.com/profile/ccvals/)
+
+---
+
+## Location & availability
+
+🌍 Remote-first — Europe / APAC  
+🕒 Timezone-flexible  
+🤝 Open to **fractional leadership**, advisory roles and technically challenging projects
+
+---
+
+> *“Same foundations. New attack surfaces.”*
