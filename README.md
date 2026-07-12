@@ -1,81 +1,126 @@
 # Hi 👋 I'm Carlos Crisóstomo
 
-## Fractional CIO · Cloud & Security Architect · Applied AI Infrastructure  
-Founder & Principal Consultant at **xift.ai**
+## Principal AI Platform & Security Architect
 
-I help **leadership teams** design, scale and secure production-grade platforms, with a strong focus on **cloud security architecture, DevSecOps operating models and applied AI systems** (LLMs, RAGs, agents, edge & local-first AI).
+**Cloud Architecture · DevSecOps · AI Security · Technical Governance**
 
-My background spans **20+ years** across embedded systems, Linux, cybersecurity, cloud infrastructure and AI, working both hands-on and at executive level in **regulated, high-risk and fast-growing environments**.
+Founder and Principal Consultant at **[xift.ai](https://xift.ai)**.
+
+I design, build and secure production platforms across **AI, cloud infrastructure,
+cybersecurity and platform engineering**.
+
+My work combines hands-on engineering with architectural and technical leadership,
+helping organisations move from prototypes and fragmented infrastructure to systems
+that are reliable, secure, auditable and operationally viable.
+
+I have more than **20 years of experience** across GNU/Linux, embedded systems,
+cybersecurity, cloud platforms, DevSecOps, SRE, MLOps and applied AI, working with
+startups, technology companies and regulated environments across Europe, Asia and
+the US.
 
 ---
 
-## What I do
+## What I work on
 
-- **Fractional CIO / Technical Leadership**  
-  Bridging business, risk and technology. Turning fragmented systems into coherent, auditable platforms.
-
-- **Cloud & Infrastructure Architecture**  
-  Secure-by-design architectures across AWS, GCP, on-prem and hybrid environments.
+- **AI Platform Architecture**  
+  Production architectures for generative AI, LLM applications, private knowledge
+  systems, RAG pipelines and AI-assisted workflows.
 
 - **AI Security & Governance**  
-  AI risk management, secure MLOps, LLM infrastructure, model governance and compliance (EU AI Act, NIST AI RMF, ISO/IEC 42001).
+  Security-by-design, model and data controls, traceability, validation, privacy,
+  risk management and operational governance.
 
-- **DevSecOps & Platform Engineering**  
-  Automation, reliability, security controls and operational maturity at scale.
+- **Cloud & Platform Engineering**  
+  Secure and scalable platforms across AWS, GCP, Kubernetes, on-premises and
+  hybrid environments.
 
-- **Applied & Local-First AI Infrastructure**  
-  Designing and running LLMs, RAG systems and agents on cloud, edge and sovereign environments.
+- **DevSecOps, MLOps & Reliability**  
+  Infrastructure as Code, CI/CD, observability, security automation, incident
+  response and production operations.
+
+- **Application & Infrastructure Security**  
+  Security architecture, web and API assessments, vulnerability analysis,
+  infrastructure hardening and remediation planning.
+
+- **Technical Leadership & Governance**  
+  Architecture strategy, platform modernisation, technical risk reduction and
+  alignment between engineering, product and business stakeholders.
 
 ---
 
-## Areas of expertise
+## Current R&D
 
-**Cloud Security Architecture · Infrastructure & Platform Architecture · DevSecOps · AI Security & Governance · MLOps · LLM & RAG Systems · Linux · Kubernetes · Edge AI · Embedded Systems**
+### Xift AI Platform
+
+A modular platform for delivering custom AI assistants, private RAG systems and
+business-specific AI workflows across cloud, hybrid and local-first environments.
+
+### Vera
+
+A local-first AI-assisted software engineering platform integrating structured
+planning, implementation, testing, quality assurance, security review and governance.
+
+### Nyx
+
+A local-first AI agent supporting authorised penetration testing, application
+security assessments and security audit automation.
 
 ---
 
-> **Note:** This GitHub is not a portfolio in the traditional sense, but a technical workspace and R&D lab supporting my consulting and product work.
+## Core technologies and areas
 
-## GitHub organizations & repositories
+**AI Systems Architecture · AI Security & Governance · Generative AI · LLMs · RAG**
 
-This GitHub reflects **R&D, experiments and reference implementations** related to my work:
+**Cloud Architecture · Platform Engineering · DevSecOps · MLOps · SRE**
+
+**AWS · GCP · Kubernetes · Terraform · Docker · Linux · GitOps · Observability**
+
+**Application Security · Cloud Security · Security Auditing · Technical Governance**
+
+---
+
+## GitHub organisations
+
+This account is primarily a technical workspace for R&D, experiments, reference
+implementations and historical engineering work.
 
 - [@xiftai](https://github.com/xiftai)  
-  Applied AI infrastructure, LLMs, RAG systems, agents and platform tooling.
+  AI platforms, local-first systems, RAG, security tooling and platform engineering.
 
 - [@EthelHub](https://github.com/EthelHub)  
-  Cybersecurity, reversing and pentesting (archived early-stage work).
+  Cybersecurity, reverse engineering and early penetration-testing work.
 
 - [@Kr0n0-Linux](https://github.com/Kr0n0-Linux)  
-  Embedded and general-purpose GNU/Linux (kernel, bootloaders, filesystems).
+  Embedded and general-purpose GNU/Linux, kernels, bootloaders and filesystems.
 
 - [@Kr0n0-Android](https://github.com/Kr0n0-Android)  
-  Embedded Android systems and low-level porting.
+  Embedded Android, low-level systems engineering and platform porting.
 
 - [@Kr0n0-Blockchain](https://github.com/Kr0n0-Blockchain)  
-  Blockchain and distributed systems (Ethereum, smart contracts, early Web3).
+  Blockchain, distributed systems, Ethereum and early smart-contract research.
 
-- [@Kr0n0-qc](https://github.com/kr0n0-qc)  
-  Quantum computing and quantum machine learning research (Ph.D research).
+- [@Kr0n0-qc](https://github.com/Kr0n0-qc)  
+  Quantum computing and quantum machine learning research.
 
 - [@Kr0n0-Misc](https://github.com/Kr0n0-Misc)  
-  Miscellaneous experiments and prototypes.
+  Miscellaneous experiments, prototypes and archived projects.
 
 ---
 
-## Publications & professional profiles
+## Publications and professional profiles
 
-- 🔗 [LinkedIn](https://linkedin.com/in/ccvals/)
-- 📚 [Google Scholar](https://scholar.google.es/citations?user=A6YWZHgAAAAJ&hl=es)
-- 📊 [PMI Project Management Profile](https://www.projectmanagement.com/profile/ccvals/)
+- [LinkedIn](https://linkedin.com/in/ccvals/)
+- [Google Scholar](https://scholar.google.es/citations?user=A6YWZHgAAAAJ&hl=en)
+- [ProjectManagement.com](https://www.projectmanagement.com/profile/ccvals/)
 
 ---
 
-## Location & availability
+## Location and collaboration
 
 🌍 Remote-first — Europe / APAC  
-🕒 Timezone-flexible  
-🤝 Open to **fractional leadership**, advisory roles and technically challenging projects
+🕒 Asynchronous-first, with European afternoon and evening overlap  
+🤝 Open to Principal or Staff architecture roles, technical leadership,
+fractional CTO/CIO engagements and selected consulting projects
 
 ---
 
